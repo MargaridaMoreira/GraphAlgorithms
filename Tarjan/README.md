@@ -25,4 +25,4 @@ g++ testGenerator.cc -o generator
 - #M: maximum number of students in each sub-network (optional, default: 10)
 - seed: seed for the random generator (optional, default: 0)
 
-This project was made with my friend [@Mokita-J](https://github.com/Mokita-J). Go check her page for more insteresting projects! :wink:
+This project was made with my friend [@Mokita-J](https://github.com/Mokita-J). Go check her page for more interesting projects! :wink:
