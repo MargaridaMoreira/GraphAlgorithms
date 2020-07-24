@@ -8,4 +8,4 @@ This repository consists in two projects submitted for Analysis and Synthesis of
 git clone https://github.com/MargaridaMoreira/GraphAlgorithms.git
 ```
 
-These projects were made with my friend [@Mokita-J](https://github.com/Mokita-J). Go check her page for more insteresting projects! :wink:
+These projects were made with my friend [@Mokita-J](https://github.com/Mokita-J). Go check her page for more interesting projects! :wink:
