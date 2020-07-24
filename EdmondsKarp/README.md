@@ -1,10 +1,10 @@
 # Edmonds Karp (May 2020)
 
 ## About
-This program predicts every students maximum grades according to each individuals network(sub-network). Every input network was represented as a graph in order to simplify the problem and the connections each student had (sub-networks) were represented as strongly connected components. This prediction consists in giving each student the maximum grade in his/hers connections. 
+This program calculates the maximum number of citizens that can reach a supermarket without coming into contact with another citizen. All of the citizens and supermarkets are randomly located in different cells of a grid. To simplify this problem, the grid was represented as a weighted graph, with each edge having a capacity of 1, the citizens were all connected to the source vertex and the supermarkets to the sink vertex. Thus, making this a max flow problem, which was solved using Edmonds Karp algorithm. 
 
 ## Requirements
-C++ compiler 
+C++ compiler  <br />
 Python 2.7+
 
 
