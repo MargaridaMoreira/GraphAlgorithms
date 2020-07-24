@@ -1,4 +1,4 @@
-# GraphAlgorithms (March 2020 - May 2020)
+# Graph Algorithms (March 2020 - May 2020)
 
 ## About
 This repository consists in two projects submitted for Analysis and Synthesis of Algorithms, a curricular subject of the CS Degree @IST.
