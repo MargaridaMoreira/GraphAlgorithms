@@ -13,6 +13,7 @@ g++ project.cpp -o project
 ```
 
 Input file can be generated from testGenerator.cc
+Example:
 ```
 g++ testGenerator.cc -o generator
 ./generator #S #C #SubN #m #M seed > {input file}
@@ -21,7 +22,7 @@ g++ testGenerator.cc -o generator
 - #S: number of students
 - #C: number of connections between students
 - #SubN: number of sub-networks
-- #m: minimum number of students in each sub-network(optional, default: 1)
+- #m: minimum number of students in each sub-network (optional, default: 1)
 - #M: maximum number of students in each sub-network (optional, default: 10)
 - seed: seed for the random generator (optional, default: 0)
 
