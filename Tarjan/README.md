@@ -1,7 +1,7 @@
 # Tarjan (March 2020)
 
 ## About
-This program predicts every students maximum grades according to each individuals network(sub-network). Every input network was represented as a graph in order to simplify the problem and the connections each student had (sub-networks) were represented as strongly connected components. This prediction consists in giving each student the maximum grade in his/hers connections. 
+This program predicts every students maximum grades according to each individuals network(sub-network). Every input network was represented as a graph in order to simplify the problem and the connections each student had (sub-networks) were represented as strongly connected components. This prediction consists in giving each student the maximum grade in his/hers connections. This was solved using Tarjan algorithm.
 
 ## Requirements
 C++ compiler 
